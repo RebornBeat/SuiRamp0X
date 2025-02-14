@@ -1,5 +1,5 @@
-# SuiRampX
-SuiRampX is a decentralized platform on the Sui blockchain that facilitates peer-to-peer (P2P) transactions involving both cryptocurrencies and fiat currencies. The platform integrates non-custodial smart contracts for cryptocurrency escrows and collaborates with third-party decentralized escrow services to handle fiat transactions, including cash, PayPal, and bank transfers. SuiRampX ensures that all transactions are secure, transparent, and compliant with international regulations, all while maintaining a no-KYC (Know Your Customer) policy.
+# SuiRamp0X
+SuiRamp0X is a decentralized platform on the Sui blockchain that facilitates peer-to-peer (P2P) transactions involving both cryptocurrencies and fiat currencies. The platform integrates non-custodial smart contracts for cryptocurrency escrows and collaborates with third-party decentralized escrow services to handle fiat transactions, including cash, PayPal, and bank transfers. SuiRamp0X ensures that all transactions are secure, transparent, and compliant with international regulations, all while maintaining a no-KYC (Know Your Customer) policy.
 
 
 ---
@@ -89,8 +89,8 @@ Installation
 
 1. Clone the Repository:
 
-git clone https://github.com/your-org/SuiRampX.git
-cd SuiRampX
+git clone https://github.com/your-org/SuiRamp0X.git
+cd SuiRamp0X
 
 
 2. Deploy Smart Contracts:
@@ -121,11 +121,11 @@ FiatEscrowAdapter.move: Interfaces with third-party decentralized escrow service
 
 Legal Compliance
 
-SuiRampX operates within the legal frameworks of multiple jurisdictions by adhering to the following principles:
+SuiRamp0X operates within the legal frameworks of multiple jurisdictions by adhering to the following principles:
 
-Decentralization: By not taking custody of funds and utilizing decentralized escrow services, SuiRampX minimizes regulatory burdens associated with custodial services.
+Decentralization: By not taking custody of funds and utilizing decentralized escrow services, SuiRamp0X minimizes regulatory burdens associated with custodial services.
 
-No KYC Policy: While SuiRampX does not require KYC, users must ensure they comply with their local laws regarding cryptocurrency and fiat transactions.
+No KYC Policy: While SuiRamp0X does not require KYC, users must ensure they comply with their local laws regarding cryptocurrency and fiat transactions.
 
 Third-Party Compliance: Partnered escrow services are responsible for adhering to their respective regulatory requirements, including Anti-Money Laundering (AML) and Counter-Terrorist Financing (CTF) obligations.
 
@@ -137,25 +137,25 @@ For a comprehensive overview of cryptocurrency regulations by country, please re
 
 FAQs
 
-Q1: How does SuiRampX ensure the security of my transactions?
+Q1: How does SuiRamp0X ensure the security of my transactions?
 
-A1: SuiRampX employs non-custodial smart contracts on the Sui blockchain for cryptocurrency transactions, ensuring that funds are only released when predefined conditions are met. For fiat transactions, we integrate with reputable decentralized escrow services that manage the escrow process without taking custody of funds.
+A1: SuiRamp0X employs non-custodial smart contracts on the Sui blockchain for cryptocurrency transactions, ensuring that funds are only released when predefined conditions are met. For fiat transactions, we integrate with reputable decentralized escrow services that manage the escrow process without taking custody of funds.
 
-Q2: Do I need to complete KYC to use SuiRampX?
+Q2: Do I need to complete KYC to use SuiRamp0X?
 
-A2: No, SuiRampX does not require users to complete KYC procedures. However, users are responsible for complying with their local laws and regulations regarding cryptocurrency and fiat transactions.
+A2: No, SuiRamp0X does not require users to complete KYC procedures. However, users are responsible for complying with their local laws and regulations regarding cryptocurrency and fiat transactions.
 
 Q3: What payment methods are supported for fiat transactions?
 
-A3: SuiRampX supports various payment methods for fiat transactions, including cash, PayPal, and bank transfers, through our integrated third-party decentralized escrow services.
+A3: SuiRamp0X supports various payment methods for fiat transactions, including cash, PayPal, and bank transfers, through our integrated third-party decentralized escrow services.
 
-Q4: How are disputes handled on SuiRampX?
+Q4: How are disputes handled on SuiRamp0X?
 
 A4: Disputes are managed through a combination of smart contract logic and the dispute resolution mechanisms provided by our partnered escrow services. This ensures a fair and transparent resolution process.
 
-Q5: Is SuiRampX available worldwide?
+Q5: Is SuiRamp0X available worldwide?
 
-A5: Yes, SuiRampX is a decentralized platform accessible globally. However, users should ensure they comply with their local laws and regulations when using the platform.
+A5: Yes, SuiRamp0X is a decentralized platform accessible globally. However, users should ensure they comply with their local laws and regulations when using the platform.
 
 
 ---
@@ -166,23 +166,23 @@ Effective Date: 02/13/2025
 
 1. Introduction
 
-SuiRampX ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our platform.
+SuiRamp0X ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our platform.
 
 2. Information Collection
 
-As a decentralized platform, SuiRampX does not collect personal information from its users. All transactions are conducted through smart contracts and third-party escrow services, ensuring privacy and security. However, users should be aware that third-party escrow providers may have their own data collection policies.
+As a decentralized platform, SuiRamp0X does not collect personal information from its users. All transactions are conducted through smart contracts and third-party escrow services, ensuring privacy and security. However, users should be aware that third-party escrow providers may have their own data collection policies.
 
 3. Use of Information
-Since SuiRampX does not collect personal information, we do not store or use user data for any purpose. Any data processed through smart contracts remains on-chain and cannot be altered.
+Since SuiRamp0X does not collect personal information, we do not store or use user data for any purpose. Any data processed through smart contracts remains on-chain and cannot be altered.
 
 4. Third-Party Services
 Users may choose to interact with third-party escrow services for fiat transactions. These services operate independently and are responsible for their own privacy policies and compliance with applicable regulations.
 
 5. Security
-SuiRampX employs blockchain-based smart contracts to facilitate secure transactions. Users should exercise caution when engaging in transactions and ensure they use trusted escrow providers for fiat transactions.
+SuiRamp0X employs blockchain-based smart contracts to facilitate secure transactions. Users should exercise caution when engaging in transactions and ensure they use trusted escrow providers for fiat transactions.
 
 6. User Responsibilities
-Users are responsible for complying with their local laws regarding cryptocurrency and fiat transactions. SuiRampX does not provide legal advice, and users should conduct their own due diligence before engaging in transactions.
+Users are responsible for complying with their local laws regarding cryptocurrency and fiat transactions. SuiRamp0X does not provide legal advice, and users should conduct their own due diligence before engaging in transactions.
 
 7. Changes to this Privacy Policy
 We reserve the right to update this Privacy Policy at any time. Changes will be reflected on this page.
@@ -199,15 +199,15 @@ Effective Date: 02/13/2025
 
 1. Introduction
 
-Welcome to SuiRampX, a decentralized, non-custodial platform facilitating peer-to-peer (P2P) transactions involving both cryptocurrencies and fiat currencies. By using our platform, you agree to the following terms.
+Welcome to SuiRamp0X, a decentralized, non-custodial platform facilitating peer-to-peer (P2P) transactions involving both cryptocurrencies and fiat currencies. By using our platform, you agree to the following terms.
 
 2. Eligibility
 
-By using SuiRampX, you confirm that you are legally allowed to engage in cryptocurrency and fiat transactions in your jurisdiction.
+By using SuiRamp0X, you confirm that you are legally allowed to engage in cryptocurrency and fiat transactions in your jurisdiction.
 
 3. Decentralization & No Custody
 
-SuiRampX does not hold user funds.
+SuiRamp0X does not hold user funds.
 
 Cryptocurrency transactions occur via on-chain smart contracts.
 
@@ -225,7 +225,7 @@ Third-party escrow providers may impose their own KYC policies, which users must
 
 Users acknowledge the risks associated with P2P trading.
 
-SuiRampX is not responsible for disputes arising from transactions.
+SuiRamp0X is not responsible for disputes arising from transactions.
 
 
 6. Dispute Resolution
@@ -239,12 +239,12 @@ Fiat transaction disputes are handled by the chosen escrow service.
 
 Users must comply with their local regulations regarding cryptocurrency and fiat trading.
 
-SuiRampX is a decentralized platform and does not offer financial or legal advice.
+SuiRamp0X is a decentralized platform and does not offer financial or legal advice.
 
 
 8. Limitation of Liability
 
-SuiRampX, its developers, and affiliates are not liable for losses, damages, or regulatory actions arising from the use of the platform.
+SuiRamp0X, its developers, and affiliates are not liable for losses, damages, or regulatory actions arising from the use of the platform.
 
 9. Amendments
 
@@ -255,12 +255,12 @@ These terms may be updated periodically. Continued use of the platform constitut
 
 Legal Compliance: Laws & Regulations by Country
 
-SuiRampX operates in a decentralized manner, ensuring that it aligns with cryptocurrency and financial laws across multiple jurisdictions.
+SuiRamp0X operates in a decentralized manner, ensuring that it aligns with cryptocurrency and financial laws across multiple jurisdictions.
 
 ---
 
 Final Notes
 
-SuiRampX is a truly decentralized, permissionless platform that bridges the gap between fiat and crypto transactions while ensuring legal compliance through third-party integrations.
+SuiRamp0X is a truly decentralized, permissionless platform that bridges the gap between fiat and crypto transactions while ensuring legal compliance through third-party integrations.
 
 
